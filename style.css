@@ -32,7 +32,7 @@ input[type='password']{
 input[type='text']:focus,
 input[type='password']:focus {
 
-    background-color: #ddd;
+    background-color: rgb(199, 117, 117);
     outline: none;
 }
 
@@ -49,7 +49,7 @@ h1 {
 }
 
 h1:hover {
-    color: blue;
+    color: rgb(141, 141, 204);
 }
 
 .btn:hover   {
@@ -58,7 +58,7 @@ h1:hover {
 }
 
 marquee {
-    color: blue;
+    color: rgb(211, 215, 178);
     font-size: 30px;
 }
 
